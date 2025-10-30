@@ -72,7 +72,7 @@
 ---
 
 ## 6) File Compression & Archiving
-| Command | Description | Example |
+| Command | Description | Exampl e |
 |----------|--------------|----------|
 | tar | Archive files | tar -cf archive.tar file1 file2 |
 | tar -xvf | Extract tar archive | tar -xvf archive.tar |
