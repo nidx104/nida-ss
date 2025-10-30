@@ -56,4 +56,11 @@ Linux is licensed under the *GNU General Public License (GPL)*, which ensures t
 
 "Linux is only free if your time has no value." - Jamie Zawinski
 
-> Linux powers 90%+ of the world's supercomputers, most web servers, cloud infrastructure, and is a favorite among developers and security professionals 
+> Linux powers 90%+ of the world's supercomputers, most web servers, cloud infrastructure, and is a favorite among developers and security professionals
+
+
+
+
+
+
+
